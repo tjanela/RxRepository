@@ -1,0 +1,16 @@
+$(SRCROOT)/Carthage/Build/iOS/SwiftRandom.framework
+$(SRCROOT)/Carthage/Build/iOS/RxBlocking.framework
+$(SRCROOT)/Carthage/Build/iOS/RxRelay.framework
+$(SRCROOT)/Carthage/Build/iOS/RxTest.framework
+$(SRCROOT)/Carthage/Build/iOS/RxSwift.framework
+$(SRCROOT)/Carthage/Build/iOS/RxSwiftExt.framework
+$(SRCROOT)/Carthage/Build/iOS/Nimble.framework
+$(SRCROOT)/Carthage/Build/iOS/CryptoSwift.framework
+$(SRCROOT)/Carthage/Build/iOS/CocoaLumberjack.framework
+$(SRCROOT)/Carthage/Build/iOS/CocoaLumberjackSwift.framework
+$(SRCROOT)/Carthage/Build/iOS/ToastSwiftFramework.framework
+$(SRCROOT)/Carthage/Build/iOS/PMJSON.framework
+$(SRCROOT)/Carthage/Build/iOS/SwiftyUserDefaults.framework
+$(SRCROOT)/Carthage/Build/iOS/SwifterSwift.framework
+
+
